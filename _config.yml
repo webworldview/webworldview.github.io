@@ -7,5 +7,5 @@ collections:
 description: 'Welcome to our Web World View Blog, this is will contain any information we consider 
   relevant or interesting that we can share with you.  Sometimes it will be practical information,
   and other times, it will be product reviews or sharing.  We hope you enjoy your time here'
-
-remote_theme:Phlow / feeling-responsive
+baseurl: /
+remote_theme: Phlow / feeling-responsive
